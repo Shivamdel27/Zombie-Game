@@ -45,4 +45,4 @@ It is really simple to run the game. Simple head over to the directory where pyt
 
 <!--Remove the below lines and add yours -->
 
-[GitHub](https://github.com/jmeyu)
+[Shivam Singh](https://github.com/Shivamdel27)
